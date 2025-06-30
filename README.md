@@ -15,10 +15,6 @@
 - MySQL Workbench
 - Eclipse IDE
 
-## How to Run
-1. Import project in Eclipse
-2. Set up MySQL connection
-3. Create `students` table
-4. Run `StudentDBApp.java`
+
 
 
