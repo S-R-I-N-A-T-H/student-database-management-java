@@ -1,0 +1,8 @@
+# Eclipse and Java build files
+.classpath
+.project
+.settings/
+bin/
+
+# Runtime file
+student_records.txt
