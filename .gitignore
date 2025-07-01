@@ -6,3 +6,4 @@ bin/
 
 # Runtime file
 student_records.txt
+*.txt
